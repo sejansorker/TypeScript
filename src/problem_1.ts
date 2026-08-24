@@ -8,6 +8,5 @@ function getBatteryStatus(percentage: number): string {
     } else if (percentage >= 91 && percentage <= 100) {
         return "Full";
     }
-
     return "Invalid";
 }
