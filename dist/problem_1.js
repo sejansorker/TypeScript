@@ -15,5 +15,4 @@ function getBatteryStatus(percentage) {
     }
     return "Invalid";
 }
-console.log(getBatteryStatus(10));
 //# sourceMappingURL=problem_1.js.map
